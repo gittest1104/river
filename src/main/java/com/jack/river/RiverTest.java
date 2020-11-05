@@ -12,5 +12,7 @@ public class RiverTest {
         System.out.println("river test");
         Integer a = 1;
         System.out.println("a = " + a);
+        Long b = 3L;
+        System.out.println("b = " + b);
     }
 }
