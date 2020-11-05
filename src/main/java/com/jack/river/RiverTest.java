@@ -6,7 +6,7 @@ package com.jack.river;
  * @Desc
  */
 public class RiverTest {
-    public static void main(String[] args) {
-        System.out.println("river test");
+    public static void main(String[] args) { System.out.println("river test");
+        System.out.println("river coding");
     }
 }
