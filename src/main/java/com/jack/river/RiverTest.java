@@ -6,7 +6,10 @@ package com.jack.river;
  * @Desc
  */
 public class RiverTest {
-    public static void main(String[] args) { System.out.println("river test");
+    public static void main(String[] args) {
+        System.out.println("------ test");
+        System.out.println("*************");
+        System.out.println("river test");
         Integer a = 1;
         System.out.println("a = " + a);
     }
