@@ -7,6 +7,7 @@ package com.jack.river;
  */
 public class RiverTest {
     public static void main(String[] args) {
-        System.out.println("river test");
+        System.out.println("------ test");
+        System.out.println("*************");
     }
 }
